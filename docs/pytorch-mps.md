@@ -19,7 +19,8 @@ Selecting MPS defaults to MRv2. Use unquantized FP16/BF16 checkpoints and greedy
 requests (`temperature=0`). Output-token logprobs are supported; prompt logprobs
 and explicit token-ID scoring are not yet supported.
 
-For speech generation, see [Qwen3-TTS on Apple Silicon](qwen3-tts-mps.md).
+For speech generation, see [Qwen3-TTS](qwen3-tts-mps.md) and
+[Ming dense TTS](ming-tts-mps.md) on Apple Silicon.
 
 ## Models
 
